@@ -1,24 +1,60 @@
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Virtualenv
 env/
 venv/
 ENV/
-.venv
+.venv/
 
-# IDE
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage.xml
+htmlcov/
+.coverage*
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+*.tmp
 
+# =========================
 # OS
+# =========================
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Backups
+# =========================
+# Import packages / local drafts
+# =========================
+*.zip
+Untitled
+
+# =========================
+# Project-specific backups
+# =========================
 Acasic_Record/_archive/source_threads_v1/_backup_*/
+
