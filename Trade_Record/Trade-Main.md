@@ -16,6 +16,7 @@
   - note.md: background / narrative (long OK)
   - meta.yaml: tags / events (machine-readable)
   - review.md: Weekly Review (result + next plan)
+- distilled: Trade_Record/versions/distilled/YYYY/
 
 ## Workflow (weekly loop)
 - Week start / midweek:
@@ -24,3 +25,13 @@
   - Write "Weekly Review" into weekly folder (review.md)
   - Add 1-line link to yearly _index.md
   - (Optional) extract distilled items for versions/distilled/
+
+## Monday AM（12/22）ラベル付け（※行動トリガー禁止）
+- 月曜朝は薄商いで“狩り”混入率が高いので、**A/B/Cの寄り推定**だけ行う（売買判断はしない）。
+- 実際の行動は **終値ゲート**で決定（Tokyo close / NY close）。
+- テンプレは note.md 冒頭「Monday AM Check」欄を使用（コピペ運用）。
+- logging:
+  - 月曜朝ラベル → note.md
+  - 終値結果（Tokyo/NY）→ note.md Facts欄
+  - 週末まとめ → review.md
+
