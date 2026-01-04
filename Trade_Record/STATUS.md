@@ -53,3 +53,104 @@ created: 2025-12-17 09:30 JST
   - BTC：**84.0k** 終値割れはリスクオフ加速の合図になりやすい
 - 行動：
   - 追加買いの速度を落とす／弾を温存（“下で拾い直す余地”を優先）
+
+
+# STATUS.md | Weekly Brief | 2025-12-22_wk51
+created: 2025-12-22 09:40 JST
+
+### Macro / Regime
+- BOJ後の不確実性が低下し、米株（SPX/US100）の4H200EMA奪回も相まってリスクオン回帰が優勢。
+- ただしクリスマス週は流動性が落ちやすく、ヘッドラインで“行って来い”が混入しやすい。
+- USDJPYは高値圏（157.7近傍）で、急伸→急落（介入警戒の形）もテールリスクとして残る。
+
+### Position / Orders (JP ETF)
+- 2243/2638：押し目買い継続。ただし追いかけ禁止。
+- 追加は「浅押し（4H21MA/ギャップ埋め）」と「深押し（サポ帯）」の2層で待つ。
+- ヘッジ利確（小さく）を検討：各10〜20口（押し目弾の確保）。
+
+### Key Levels (close-based)
+- USDJPY: R=157.703（上抜け維持で上伸び余地） / S=156.59（NY終値割れで円高再点火）
+- JP225: R=52,619 / S=48,657 → 47,377（東京終値割れでリスクオフ点灯）
+- SPX: spot ~6,855 / S=6,667（NY終値割れでリスクオフ濃厚）
+- BTC: spot ~89k / S=84k（NY終値割れで加速の合図になりやすい）
+- 2243: spot ~2,658 / S=2,514 → 2,387 / Bull confirm close=2,692
+- 2638: spot ~2,375 / S=2,320 → 2,268 / Bull confirm close=2,458
+
+### This Week Focus
+- “終値ゲート”運用（暫定＝東京引け / 最終＝NY引け）を徹底。
+- 3点灯（USDJPY/JP225/SPX）同日点灯で暫定リスクオフへ。
+- 押し目買いは「指値先着」。成行で追わない。
+
+
+# STATUS.md — GM Current Location
+updated: 2026-01-03 (JST)
+
+## Current week (week-ahead)
+- week_id: 2026-1-10_wk01
+- period: 2026-01-05 → 2026-01-10
+- stance: risk-on_cautious（薄商い・ギャップ警戒）
+
+### Macro / Regime（facts-first）
+- 年末→年始の薄商いが継続しやすく、低ボラに見えても「急反転/ギャップ」の尾が太い。
+- FedWatch（提供スナップショット）では 2026/01/28 は据え置き優勢（350–375 が 83.4%）。3月は分岐（350–375 48.9% / 325–350 44.2% / 300–325 6.9%）。
+- 株は高値圏での消化（US100/JP225は上昇トレンド維持寄り）だが、Goldも強く「ヘッジ需要を残した risk-on」。
+
+### Weekly closes (as of 2026-01-03)
+- US100: W1 25,402.2 / D1 25,283.6
+- JP225: W1 50,818 / D1 50,771
+- USDJPY: W1 156.513 / D1 156.805
+- XAUUSD: W1 4,420.82 / D1 4,340.39
+- BTCUSD: W1 88,798.09 / D1 90,147.02
+- 201A: W1 203.7 / D1 203.1
+
+### Position / Orders（運用ルール）
+- コア（1655 / 201A / 425A）は維持を基本。
+- リスク追加（AIベータ含む）は「ブレイク→維持→押し確認」まで待つ。追いかけ禁止。
+- リスク低下は「終値ゲート」で機械化（下記）。
+
+### Key Levels（close-based / next week）
+- US100:
+  - R: 25,670.8（上抜け維持で risk-on 追加検討）
+  - S: 23,692.0（D1終値割れ＝リスク縮小）→ 22,430.8
+- JP225:
+  - S: 48,108（Tokyo終値割れで日本ベータ警戒を上げる）
+- USDJPY:
+  - R zone: 156.8–157.0
+  - S zone: 154.7–154.3（割れ＝円高圧の再点火警戒）
+- XAUUSD:
+  - S: 4,375.48 / 4,328.43（維持＝ヘッジ需要継続の示唆）
+- BTCUSD:
+  - S: 84,023.10
+  - R: 93,587.47 → 99,750.61
+- 201A:
+  - triangle endgame（ブレイク＋維持確認後のみ追加）
+
+※2243/2638（暫定：wk52から据え置き。次回スクショで更新）
+- 2243: S 2,514 → 2,387 / Bull confirm close 2,692
+- 2638: S 2,320 → 2,268 / Bull confirm close 2,458
+
+### Gates（最重要：終値で判定）
+- Add risk ONLY if:
+  - US100 が 25,670 を日足で上抜け → 21MAがサポとして機能（押しても割れにくい）
+- Reduce / pause adds if:
+  - US100 D1 close < 23,692
+  - USDJPY D/W breakdown < 154.7
+- Caution boosters:
+  - JP225 Tokyo close < 48,108
+  - BTC NY close < 84,023（連鎖加速しやすい）
+
+### This Week Focus（行動）
+- ブレイク週：上抜けは「確認→押し」まで待つ（最重要）。
+- 低流動性の“ヒゲ”は判断に採用しない（判断は終値のみ）。
+- 日本ベータ（2243/2638）は USDJPY（154.7）を割る局面で先に弱くなりやすい前提でロットを急がない。
+
+## Previous (archived briefs)
+- Weekly Brief | 2026-1-3_wk52（2025-12-29 → 2026-01-03）
+  - see: logs/gm/weekly/2026/2026-1-3_wk52/
+
+### Signals (weekly, fixed keys)
+- us10y_accel: TBD
+- hy_oas_widening: TBD
+- vix_spike: TBD
+- wti_shock: TBD
+- eps_revision_chain: TBD
