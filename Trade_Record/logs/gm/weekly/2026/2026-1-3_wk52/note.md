@@ -61,3 +61,28 @@ note: 年末年始の薄商い＝ギャップ＆ヒゲ混入。判断は終値�
 ## 5) Decisions（戦略変更があれば1行）
 - decision: none
 - evidence: “終値ゲート運用”を再確認（ルール変更なし）
+
+
+## Market snapshot (US/JP) — inputs (as of 2026-01-02/03)
+### US: Rotation + low vol (facts)
+- Rotation signal (risk-on but selective):
+  - SOX strong / Russell2000 strong / Dow Transports strong / Utilities strong
+  - FANG weak (mega-cap tech profit-taking / valuation scrutiny)
+- Volatility:
+  - VIX: 14.51 (low)
+  - VVIX: 90.1 (down)
+  - MOVE: 62.36 (down)
+- Rates / curve:
+  - US10Y: 4.189
+  - US2Y: 3.477
+  - 2-10 spread: -0.712 (inversion persists but normalizing direction)
+
+### JP: High-level indices elevated but breadth weak (facts)
+- Indices in high zone, but breadth weak:
+  - Decliners dominate / Growth segment weak (selective market)
+
+### Event risk (facts)
+- 2026-01-09: US Employment Report (NFP)
+- 2026-01-27 to 01-28: FOMC
+- FRB Chair succession headlines (political variable → potential rate/USD volatility)
+

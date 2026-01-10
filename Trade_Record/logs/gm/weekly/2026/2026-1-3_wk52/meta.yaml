@@ -95,3 +95,28 @@ tags:
   - "asset:XAUUSD"
   - "asset:BTCUSD"
   - "asset:NIFTY"
+
+
+# --- Signals (fixed keys: yes/no) ---
+us10y_accel: "no"           # 4w accel not confirmed from provided snapshot (daily rise ≠ accel)
+hy_oas_widening: "no"       # OAS not provided; low vol + calm credit proxies → provisional "no"
+vix_spike: "no"             # VIX 14.51 (low)
+wti_shock: "no"             # WTI not provided; cannot confirm shock → provisional "no"
+eps_revision_chain: "no"    # explicit downward revision chain not confirmed in provided material
+
+signal_evidence:
+  vol:
+    vix: 14.51
+    vvix: 90.1
+    move: 62.36
+  rates:
+    us10y: 4.189
+    us2y: 3.477
+    spread_2s10s: -0.712
+  regime_notes:
+    - "risk-on_cautious + rotation (SOX/R2K/Transports/Utilities up; FANG down)"
+    - "JP indices high zone but breadth weak (selective)"
+  event_risk:
+    nfp_date: "2026-01-09"
+    fomc_dates: ["2026-01-27", "2026-01-28"]
+    frb_chair_succession: "headline risk (political variable)"

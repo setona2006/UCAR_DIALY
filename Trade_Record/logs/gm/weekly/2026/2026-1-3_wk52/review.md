@@ -36,3 +36,24 @@ scope: what mattered / regime / week-ahead playbook
 ## Decisions changed this week
 - None（ルール枠組み維持）：「確認してから増やす／割れたら守る」
 
+
+## What mattered (cross-asset) — interpretation
+- Regime: risk-on (cautious) with accelerating rotation.
+  - Breadth/leadership split: SOX/R2K/Transports/Utilities outperform while FANG underperforms.
+  - Interpretation: "AI one-way" is cooling → selection & sector rotation dominates.
+- Volatility is low (VIX 14.51 / MOVE 62.36), but low-vol weeks can hide gap risk (thin liquidity).
+- Rates: US10Y 4.189 / US2Y 3.477, curve inversion persists but normalizing direction (-0.712).
+- Japan: indices remain in high zone, but breadth weak → selective market; growth underperforms.
+
+## Action (week-ahead) — playbook alignment
+- Stance: keep risk-on_cautious; do not chase strength.
+- Adds: wait for close-based confirmation gates (break + hold + pullback). No impulse buys on SOX spike.
+- Risk control: keep "close-gate" discipline; low vol ≠ low risk.
+- JP beta note: breadth weak + growth weak → JP beta (AI/growth) should be added only after confirmation, not before.
+
+## Event risk (timing)
+- 2026-01-09 NFP: major catalyst for rates/USD/US equities; avoid adding risk ahead of event without gate confirmation.
+- 2026-01-27/28 FOMC: policy path repricing risk.
+- FRB chair succession headlines: political variable → potential rate/USD volatility (watch headline-driven spikes).
+
+

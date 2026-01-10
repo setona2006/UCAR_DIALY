@@ -1,5 +1,5 @@
-GM Weekly Index
 # _index — GM weekly (2026)
+updated: 2026-01-10 (JST)
 
 目的：2026年の週次ログへ最短導線を作る（STATUS→週→meta→note→review→charts）。
 
@@ -13,22 +13,25 @@ GM Weekly Index
 
 ### 2026-1-3_wk52（2025-12-29 → 2026-01-03）
 - Regime: risk-on (cautious) / thin liquidity
+- 1行：年末年始の薄商いで“上げるが踏み切らない”モード。次週イベント待ち。
 - Key gates:
-  - Add risk: US100 daily close > 25,670 and 21MA holds (buy pullback, no chase)
+  - Add risk: US100 daily close > 25,670 and 21MA holds（押し目のみ／追わない）
   - Reduce risk: US100 daily close < 23,692 OR USDJPY < 154.7
 - Links:
-  - ./2026-1-3_wk52/index.md
-  - ./2026-1-3_wk52/note.md
-  - ./2026-1-3_wk52/review.md
-  - ./2026-1-3_wk52/meta.yaml
-  - ./2026-1-3_wk52/charts/charts.md
+  - [index](./2026-1-3_wk52/index.md)
+  - [note](./2026-1-3_wk52/note.md)
+  - [meta](./2026-1-3_wk52/meta.yaml)
+  - [review](./2026-1-3_wk52/review.md)
+  - [charts](./2026-1-3_wk52/charts.md)
 
-### 2026-1-10_wk01（YYYY-MM-DD → YYYY-MM-DD）
-- Regime: TBD
-- Key gates: TBD
+### 2026-1-10_wk01（2026-01-05 → 2026-01-10）
+- Regime: risk-on_cautious（rotation accelerating / low vol）
+- 1行：NFP弱でも金利が落ちず、円安株高が高値圏で収縮。追撃より“押し目条件待ち”。
+- Notes: SOX↑ / R2000↑ / Transports↑ / Utilities↑ / FANG↓, VIX 14.51 / MOVE 62.36
+- Event risk: 01/09 NFP, 01/27-28 FOMC, FRB chair succession headlines
 - Links:
-  - ./2026-1-10_wk01/index.md
-  - ./2026-1-10_wk01/note.md
-  - ./2026-1-10_wk01/review.md
-  - ./2026-1-10_wk01/meta.yaml
-  - ./2026-1-10_wk01/charts/charts.md
+  - [index](./2026-1-10_wk01/index.md)
+  - [note](./2026-1-10_wk01/note.md)
+  - [meta](./2026-1-10_wk01/meta.yaml)
+  - [review](./2026-1-10_wk01/review.md)
+  - [charts](./2026-1-10_wk01/charts.md)
