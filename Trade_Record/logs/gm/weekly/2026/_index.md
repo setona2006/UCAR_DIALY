@@ -1,5 +1,5 @@
 # _index — GM weekly (2026)
-updated: 2026-01-10 (JST)
+updated: 2026-01-19 (JST)
 
 目的：2026年の週次ログへ最短導線を作る（STATUS→週→meta→note→review→charts）。
 
@@ -22,7 +22,7 @@ updated: 2026-01-10 (JST)
   - [note](./2026-1-3_wk52/note.md)
   - [meta](./2026-1-3_wk52/meta.yaml)
   - [review](./2026-1-3_wk52/review.md)
-  - [charts](./2026-1-3_wk52/charts.md)
+  - [charts](./2026-1-3_wk52/charts/charts.md)
 
 ### 2026-1-10_wk01（2026-01-05 → 2026-01-10）
 - Regime: risk-on_cautious（rotation accelerating / low vol）
@@ -34,4 +34,25 @@ updated: 2026-01-10 (JST)
   - [note](./2026-1-10_wk01/note.md)
   - [meta](./2026-1-10_wk01/meta.yaml)
   - [review](./2026-1-10_wk01/review.md)
-  - [charts](./2026-1-10_wk01/charts.md)
+  - [charts](./2026-1-10_wk01/charts/charts.md)
+
+### 2026-1-17_wk02（2026-01-13 → 2026-01-17）
+- Regime: risk-on_cautious（rotation + low vol, but yields sticky & gold bid）
+- 1行：金利が落ちにくい＋金が崩れにくい＝“ヘッジと追撃”の難易度が上がる週。
+- Key signals: yields_sticky / gold_bid / breadth_weakening / jan_flow_support / earnings_risk_Feb
+- Links:
+  - [index](./2026-1-17_wk02/index.md)
+  - [note](./2026-1-17_wk02/note.md)
+  - [meta](./2026-1-17_wk02/meta.yaml)
+  - [review](./2026-1-17_wk02/review.md)
+  - [charts](./2026-1-17_wk02/charts/charts.md)
+
+### 2026-1-24_wk03（2026-01-19 → 2026-01-24）
+- Regime: risk-on_cautious（event week: PCE / BOJ / PMI）
+- 1行：薄い板×イベント週。終値ゲートと分割以外はやらない週（追撃禁止）。
+- Links:
+  - [index](./2026-1-24_wk03/index.md)
+  - [note](./2026-1-24_wk03/note.md)
+  - [meta](./2026-1-24_wk03/meta.yaml)
+  - [review](./2026-1-24_wk03/review.md)
+  - [charts](./2026-1-24_wk03/charts/charts.md)
