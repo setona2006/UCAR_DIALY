@@ -55,7 +55,7 @@ created: 2025-12-17 09:30 JST
   - 追加買いの速度を落とす／弾を温存（“下で拾い直す余地”を優先）
 
 
-# STATUS.md | Weekly Brief | 2025-12-22_wk51
+## Weekly Brief |  2025-12-22_wk51
 created: 2025-12-22 09:40 JST
 
 ### Macro / Regime
@@ -82,8 +82,8 @@ created: 2025-12-22 09:40 JST
 - 押し目買いは「指値先着」。成行で追わない。
 
 
-# STATUS.md — GM Current Location
-updated: 2026-01-03 (JST)
+## Weekly Brief | 2026-01-03 (JST)
+created: 2025-01-03 09:30 JST
 
 ## Current week (week-ahead)
 - week_id: 2026-1-10_wk01
@@ -154,3 +154,110 @@ updated: 2026-01-03 (JST)
 - vix_spike: TBD
 - wti_shock: TBD
 - eps_revision_chain: TBD
+
+
+## Weekly Brief | 2026-2-13_wk02
+created: 2026-02-15 13:00 JST
+
+### Macro / Regime
+- 雇用統計上方修正（7万予想→13万）＋トランプFRBタカ派指名で金利下げ不透明、MSFT好決算なのにSaaS急落でリスクオフ兆候。
+- イラン情勢悪化残存、VIX20上昇/F&G36でボラ増。
+- 短期レジーム：US risk_off_cautious（tech稲穂形状） × JP risk_on_overheat（衆院選後最高値更新中、米国連動下落警戒）。
+- 週前半：雇用/決算反応でオフ圧力強まり、US100高値圏もみ合い（稲穂）。
+- 週後半：イラン/介入watchでボラ増、USDJPY急反転（高値圏sticky）。
+- 混合レジーム：株オンオフ綱引き、Goldヘッジ機能継続、BTC調整色残りやすい。
+
+### Position / Orders (JP ETF)
+- 2243 / 2638：押し目確認で分割買い増し継続（米国オフ連動警戒でロット抑制）。
+- 追加予定：US100 24k維持時のみ、もう一段押しで残りロット投入（VIX<18確認）。
+- ヘッジポジ：Gold厚め（bid継続）、現金比率UP（弾薬庫強化）。
+- 2倍ルール適用：含み益ポジ（e.g., INFY/IONQ）で元本回収→Gold/現金隔離実行。
+
+### Key Gates (provisional)
+- Add risk: 
+  - US100 daily close > 25,000 and 21MA holds as support（押し目限定／追撃禁止）
+  - JP225 Tokyo close > 55,000 and breadth改善
+- Reduce risk: 
+  - US100 daily close < 24,000
+  - USDJPY D/W breakdown < 155.0
+- Caution boosters:
+  - JP225 Tokyo close < 55,000
+  - BTC NY close < 65,000（連鎖加速しやすい）
+  - VIX > 22定着（ボラ増＝下げ第2波）
+
+### This Week Focus（行動: 2/17-20）
+- オフ警戒週：上抜けは「終値確認→押し」まで待つ（最重要）。
+- 低流動性の“ヒゲ”は判断に採用しない（判断は終値のみ）。
+- 日本ベータ（2243/2638）は USDJPY（155.0）を割る局面で先に弱くなりやすい前提でロットを急がない。
+- 2月決算/ガイダンスwatch：SaaS剥落兆候で高βからシフト検討。
+- ヘッジ優先：Gold/現金で盾強化、イラン/介入急変動に備え。
+
+## Previous (archived briefs)
+- Weekly Brief | 2026-2-6_wk01（2026-02-02 → 2026-02-06）
+  - see: logs/gm/weekly/2026/2026-2-6_wk01/
+
+### Signals (weekly, fixed keys)
+- us10y_accel: watch（雇用修正で再上昇兆候）
+- hy_oas_widening: low（まだ安定もオフ兆候で監視）
+- vix_spike: on（20上昇、ボラ増）
+- wti_shock: watch（イラン悪化でbid継続）
+- eps_revision_chain: mixed（MSFT好調なのにSaaS下方）
+
+
+## Weekly Brief | 2026-2-20_wk03
+created: 2026-02-22 18:00 JST
+### Macro / Regime
+
+イラン侵攻懸念（交渉期限短縮、空母展開）で原油高（物価高→FRB利上げ可能性）。
+SaaS急落連鎖でブルーアウルファンド解約停止、金融激震警戒。
+失業保険同水準、PMI低下で成長弱含み。
+短期レジーム: risk_off_accel（地政/金融ショックwatch × US100急落兆候）。
+週前半: PMI弱反応でオフ圧力。
+週後半: イランショックで原油/VIXボラ増。
+混合レジーム: オフ加速、金利sticky_up、Goldヘッジ優位/BTC底固め。
+
+### Position / Orders (JP ETF)
+
+2243 / 2638: 深押し確認で分割買い増し待機（オフ連動警戒でロット最小）。
+追加予定: US100 23,900維持時のみ、もう二段押しで残り投入（VIX<18確認）。
+ヘッジポジ: Gold厚め（necks突破）、現金比率UP（弾薬庫強化）。
+2倍ルール適用: 含み益ポジ（e.g., INFY/IONQ）で元本回収→Gold/現金隔離継続。
+
+### Key Gates (provisional)
+
+Add risk:
+US100 daily close > 24,500 and 21MA holds as support（深押し限定／追撃禁止）
+JP225 Tokyo close > 56,000 and breadth改善
+
+Reduce risk:
+US100 daily close < 23,900
+USDJPY D/W breakdown < 157.0
+
+Caution boosters:
+JP225 Tokyo close < 56,000
+BTC NY close < 65,000（連鎖加速しやすい）
+VIX > 22定着（ボラ増＝下げ第2波）
+WTI > 70.0（インフレショック）
+
+
+This Week Focus（行動: 2/23-27）
+
+オフ加速週: 上抜けは「終値確認→深押し」まで待つ（最重要）。
+低流動性の“ヒゲ”は判断に採用しない（判断は終値のみ）。
+日本ベータ（2243/2638）は USDJPY（157.0）を割る局面で先に弱になりやすい前提でロットを急がない。
+2月アノマリー/イランwatch: 侵攻顕在化で下落連鎖警戒、盾強化優先。
+ヘッジ優先: Gold/現金で盾厚め、C-2点灯で即シフト。
+
+Previous (archived briefs)
+
+Weekly Brief | 2026-2-13_wk02（2026-02-09 → 2026-02-13）
+see: logs/gm/weekly/2026/2026-2-13_wk02/
+
+
+Signals (weekly, fixed keys)
+
+us10y_accel: on（物価高で利上げ可能性）
+hy_oas_widening: alert（ファンド解約でストレス増）
+vix_spike: watch（レンジもショックで上昇可能性）
+wti_shock: on（イランでbid加速）
+eps_revision_chain: down（SaaS剥落継続）

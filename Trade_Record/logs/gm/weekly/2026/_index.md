@@ -56,3 +56,42 @@ updated: 2026-01-19 (JST)
   - [meta](./2026-1-24_wk03/meta.yaml)
   - [review](./2026-1-24_wk03/review.md)
   - [charts](./2026-1-24_wk03/charts/charts.md)
+
+### 2026-2-6_wk01（2026-02-02 → 2026-02-06）
+- Regime: US risk_off（tech-led） / JP risk_on（election） / USDJPY_breakout / intervention_tailrisk / oil_bid
+- 1行：DC過剰投資懸念でMSFT等が崩れ、米株は損切り連鎖。日本は選挙期待で強いが、米株失速と円安の“介入リスク”が次の揺れ。
+- Key gates:
+  - Add risk: US100 25,011（=直近終値）を維持しつつ 21MAを回復、かつ VIX < 20（押し目のみ／追撃禁止）
+  - Reduce risk: US100 daily close < 23,913（下げ加速：22,223〜21,264視野）／JP225 < 51,141／USDJPY < 154.747（調整） or 159.348上抜け後の急反落（介入）／US10Y > 4.30 or US2Y > 3.67（テック逆風）
+- Links:
+  - [index](./2026-2-6_wk01/index.md)
+  - [note](./2026-2-6_wk01/note.md)
+  - [meta](./2026-2-6_wk01/meta.yaml)
+  - [review](./2026-2-6_wk01/review.md)
+  - [charts](./2026-2-6_wk01/charts/charts.md)
+
+### 2026-2-13_wk02（2026-02-09 → 2026-02-13）
+- Regime: US risk_off_cautious（tech稲穂 + employment_upside → rate_cut_delay） / JP risk_on_overheat（election_afterglow） / USDJPY_sticky_high / geopolitics_watch (Iran) / VIX_rise
+- 1行：雇用上方修正＋MSFT好決算なのにSaaS売られ米国株リスクオフ兆候、日本株オン継続だが連動下落警戒。トランプFRBタカ派指名＋イラン悪化でボラ増。
+- Key gates:
+  - Add risk: US100 24,000維持しつつ25,000回復＆VIX<18（押し目限定／追撃禁止）
+  - Reduce risk: US100 daily close < 24,000（損切り連鎖加速：23,000視野）／JP225 < 55,000／USDJPY < 155.0（介入/巻き戻し） or 160.0上抜け後急落／US10Y > 4.30 or VIX>22定着
+- Links:
+  - [index](./2026-2-13_wk02/index.md)
+  - [note](./2026-2-13_wk02/note.md)
+  - [meta](./2026-2-13_wk02/meta.yaml)
+  - [review](./2026-2-13_wk02/review.md)
+  - [charts](./2026-2-13_wk02/charts/charts.md)
+
+  ### 2026-2-20_wk03（2026-02-17 → 2026-02-20）
+- Regime: risk_off_accel（geopol_shock + credit_stress / PMI weak / rate_hike_watch）
+- 1行：イラン侵攻懸念の原油高＋ファンド解約停止ショックでオフ加速、PMI低下で利上げ可能性。Gold上昇/US100急落兆候、日本連動警戒。
+- Key gates:
+  - Add risk: US100 23,900維持しつつ24,500回復＆VIX<18（深押し限定／追撃禁止）
+  - Reduce risk: US100 daily close < 23,900（急落加速：22,000視野）／JP225 < 56,000／USDJPY < 157.0（介入/巻き戻し） or 160.0上抜け後急落／WTI > 70.0（インフレショック） or VIX>22定着
+- Links:
+  - [index](./2026-2-20_wk03/index.md)
+  - [note](./2026-2-20_wk03/note.md)
+  - [meta](./2026-2-20_wk03/meta.yaml)
+  - [review](./2026-2-20_wk03/review.md)
+  - [charts](./2026-2-20_wk03/charts/charts.md)

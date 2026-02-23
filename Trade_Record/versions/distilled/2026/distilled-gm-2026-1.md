@@ -67,3 +67,43 @@ decision: breadth_weakening=watch（指数より“中身”を優先監視に�
 decision: jan_flow_support=on（1月はフロー下支え前提で、下げにくさを織り込む） / evidence: 年初フロー＋低ボラ環境でイベント前でも株が崩れにくい / implication: コア維持、サテライトは分割・押し待ち徹底（上げを追わず、急落時だけ弾を切る）
 
 decision: earnings_risk_Feb=watch（2月以降の決算/ガイダンスで“分解調整”が入り得る前提を追加） / evidence: 低ボラ＋金利粘り＋ローテ加速は、ガイダンスショックで内部崩れを起こしやすい地合い / implication: 決算跨ぎの追撃を避け、反応後の確認で追加；悪化時は高βから先に圧縮して弾薬庫を守る
+
+---
+
+## 2026-1-17_wk02（2026-01-13 → 2026-01-17）
+- regime: risk-on_cautious（rotation / low vol）+ yields sticky & gold bid
+- decision: 追撃より「押し目条件待ち」を強化。ヘッジは“債券オンリー”に寄せず、Goldの機能性を相対的に重視。2月決算リスクに備え弾薬温存。
+- evidence:
+  - yields_sticky: 弱い指標でも金利が落ちにくい状態が継続（＝株の中期ストレスになりやすい）
+  - gold_bid: VIX低位・株高でもGoldが崩れにくい局面（＝ヘッジ需要が残存）
+  - breadth: 指数は強く見えても中身（breadth）に注意／ローテ偏重
+  - FX: USDJPYは高値圏でポジション偏りの反転に注意
+- implication:
+  - 追加は「ブレイク＋定着」でも追わず、押し目（21/50MAや前レジサポ）＋終値確認で分割のみ
+  - 2月は“決算で分解調整”が入り得る前提で、弾薬を残す（反応後の確認で追加）
+  - 指数が耐えても個別が崩れる型に備え、サテライトは高βから圧縮しやすい設計に寄せる
+- tags: [gm, monthly_distilled, 2026-01, regime:risk-on, vol:low, signal:yields_sticky, signal:gold_bid, signal:breadth_weakening, flow:jan_support, risk:earnings_Feb]
+
+### signals (wk02 distilled)
+- decision: gold_bid=watch / evidence: 株高維持＋VIX低位でもGoldが崩れにくい＝ヘッジ需要が残存 / implication: リスクオフ初動は債券もあり得るが、継続局面ではGold比重・維持ラインを優先して見る
+- decision: yields_sticky=on / evidence: 弱指標でもUS10Yが粘り、金利低下が効きにくい / implication: 追いかけ買い禁止を強化、追加は押し目＋終値確認のみ
+- decision: breadth_weakening=watch / evidence: 指数は高値圏でも広範囲は弱く、ローテ偏重 / implication: 追加は勝ち筋セクターに限定、悪化継続なら“指数耐えるが個別崩れ”型に備える
+- decision: jan_flow_support=on / evidence: 年初フロー＋低ボラで株が崩れにくい / implication: コア維持、サテライトは分割・押し待ち徹底
+- decision: earnings_risk_Feb=watch / evidence: 低ボラ＋金利粘り＋ローテ加速はガイダンスで内部崩れを起こしやすい / implication: 決算跨ぎ追撃を避け、反応後に追加；悪化時は高βから圧縮
+
+---
+
+## 2026-1-24_wk03（2026-01-19 → 2026-01-24）
+- regime: risk-on_cautious（risk-on継続だがJPYショック＋Goldブレイクでヘッジ需要が可視化）
+- decision:
+  - jpy_intervention_risk=on（USDJPY 154.7を“割れたら守り”のハードゲートに固定）
+  - gold_bid=on（4,900台定着。ヘッジの主役候補として格上げ）
+- evidence (close):
+  - US100 25,546.7（+0.08% w） / VIX 16.08（<20）
+  - USDJPY 155.741（-1.47% w, 1/23に急落：長老メモ）
+  - XAUUSD 4,982.37（+8.45% w） / BTCUSD 89,493.82（-4.42% w）
+  - JGB10Y 2.257%（+3.34% w） / JGB2Y 1.245%（+3.58% w）
+- implication:
+  - 追撃禁止を継続。追加は「US100 > 25,670（終値）＋21MAサポ転」後の押し目のみ。
+  - FOMC（1/27–28）＋日本政治イベント周辺は“FX先行の揺れ”に備え、弾薬（現金）とGoldヘッジを優先。
+- tags: [gm, monthly_distilled, 2026-01, 2026-1-24_wk03, signal:gold_bid, risk:jpy_intervention, trigger:FOMC]
