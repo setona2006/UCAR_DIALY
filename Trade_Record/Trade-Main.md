@@ -86,8 +86,6 @@ C) 事実買い上抜け（リスクオン継続）
 # Trade-Main.md — GM Playbook / Operating Manual
 updated: 2026-01-03 (JST)
 
-> NOTE: Key gates/levels are “snapshot”. Source of truth is STATUS.md.
-
 ## GM 2025-11_to_12 (Archive)
 - Archive: Trade_Record/_archive/source_threads_v1/acv-gm-2025-11_to_12.md
 - Raw: Trade_Record/_archive/source_threads_v1/raw/
@@ -168,3 +166,49 @@ C) Risk-off re-ignition（失速）
 ### Monday AM label（行動トリガー禁止）
 - 月曜朝は薄商いで“狩り”が混入しやすい。
 - A/B/C の寄り推定だけを note.md 冒頭に記録し、行動は終値ゲートで決める。
+
+
+### Current Playbook (Week Start) - 2026-3-1_wk03更新
+### Operating Principles（固定）（変更なし）
+
+### Key gates（最重要）
+- Add risk ONLY if:
+  - US100 daily close >24,911 and 21MA holds（押し目のみ／追撃禁止）
+- Reduce / pause adds if:
+  - US100 D1 close <23,913
+  - USDJPY breakdown <150.345（D/W警戒） or 159.348上抜け後急反落
+  - WTI >70.165（インフレショック）
+  - Gold <4,900
+- Caution boosters:
+  - JP225 Tokyo close <54,814
+  - VIX >22定着
+
+### Key levels（as of 2026-03-01）
+- US100: R 25,409.3 / S 24,911.2 → 23,913.4
+- JP225: R 60,059 / S 58,582 → 54,814
+- USDJPY: R 159.348 / S 156.004 → 150.345
+- XAUUSD: R 5,274.19 / S 4,900 → 4,549.86
+- WTI: R 70.165 / S 67.065 → 62.025
+
+
+### Current Playbook (Week Start) - 2026-3-1_wk03更新
+### Operating Principles（固定）（変更なし）
+
+### Key gates（最重要）
+- Add risk ONLY if:
+  - US100 daily close >24,911 and 21MA holds（押し目のみ／追撃禁止）
+- Reduce / pause adds if:
+  - US100 D1 close <23,913
+  - USDJPY breakdown <150.345（D/W警戒） or 159.348上抜け後急反落
+  - WTI >70.165（インフレショック）
+  - Gold <4,900
+- Caution boosters:
+  - JP225 Tokyo close <54,814
+  - VIX >22定着
+
+### Key levels（as of 2026-03-01）
+- US100: R 25,409.3 / S 24,911.2 → 23,913.4
+- JP225: R 60,059 / S 58,582 → 54,814
+- USDJPY: R 159.348 / S 156.004 → 150.345
+- XAUUSD: R 5,274.19 / S 4,900 → 4,549.86
+- WTI: R 70.165 / S 67.065 → 62.025
